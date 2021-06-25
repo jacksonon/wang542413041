@@ -22,7 +22,3 @@
 - 📫 How to reach me: why reach me ?!
 - 😄 Pronouns: sss
 - ⚡ Fun fact: Game / Travel / Delicious Food
-
-**iOS版本分布概览**
-- [iosversionstats](https://www.david-smith.org/iosversionstats/)
-- [app-store](https://developer.apple.com/support/app-store/)
