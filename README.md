@@ -17,8 +17,8 @@
 - 🔭 I’m currently working on earth is not Mars.
 - 🌱 I’m currently learning how to be a better coder.
 - 👯 I’m looking to collaborate on earn money.
-- 🤔 I’m looking for help with anything.
-- 💬 Ask me about anything.
+- 🤔 I’m looking for help with algorithm.
+- 💬 Ask me about easy things.
 - 📫 How to reach me: why reach me ?!
-- 😄 Pronouns: sss
-- ⚡ Fun fact: Game / Travel / Delicious Food
+- 😄 Pronouns: bool
+- ⚡ Fun fact: Game / Delicious Food / algorithm(Novice)
